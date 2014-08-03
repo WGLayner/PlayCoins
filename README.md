@@ -1,0 +1,4 @@
+PlayCoins
+=========
+
+For exercise purpose.
